@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KodlamaIO_Functions", "KodlamaIO_Functions\KodlamaIO_Functions.csproj", "{7191C3FC-2D67-47C9-B00B-B3C8F743E5CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{AEFFCEF0-1AC8-45FA-BA2A-6013E06BC692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{90AEEB77-FF15-43F5-8352-CAC920BDA754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7191C3FC-2D67-47C9-B00B-B3C8F743E5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7191C3FC-2D67-47C9-B00B-B3C8F743E5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7191C3FC-2D67-47C9-B00B-B3C8F743E5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7191C3FC-2D67-47C9-B00B-B3C8F743E5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFFCEF0-1AC8-45FA-BA2A-6013E06BC692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFFCEF0-1AC8-45FA-BA2A-6013E06BC692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFFCEF0-1AC8-45FA-BA2A-6013E06BC692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFFCEF0-1AC8-45FA-BA2A-6013E06BC692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AEEB77-FF15-43F5-8352-CAC920BDA754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AEEB77-FF15-43F5-8352-CAC920BDA754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AEEB77-FF15-43F5-8352-CAC920BDA754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AEEB77-FF15-43F5-8352-CAC920BDA754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F48886-FE67-48AA-99D2-0B417028AFFB}
+	EndGlobalSection
+EndGlobal
